@@ -1,0 +1,415 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="stylesheet" href="./jemdoc.css" type="text/css">
+<title>Vincent Tan</title>
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tbody><tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">Vincent Y. F. Tan </div>
+<br>
+<div class="menu-item"><a href="./index.html" class="current">Home</a></div>
+<br>
+<div class="menu-item"><a href="./bio.html">Biography</a></div>
+<br>
+<div class="menu-item"><a href="./teaching.html">Teaching</a></div>
+<br>
+<div class="menu-item"><a href="./news.html">News Archive</a></div>
+ 
+<div class="menu-category">Research</div>
+<br>
+<div class="menu-item"><a href="./grant.html">Research Grants</a></div>
+<br>
+<div class="menu-item"><a href="./group.html">Research Group</a></div>
+<br>
+<div class="menu-item"><a href="./research.html">Research Topics</a></div>
+ 
+<div class= "menu-category">Publications</div>
+<br>
+<div class="menu-item"><a href="./preprint.html">Preprints</a></div>
+<br>
+<div class="menu-item"><a href="./monograph.html">Monographs</a></div>
+<br>
+<div class="menu-item"><a href="./csconf.html">CS Conference Papers</a></div>
+<br>
+<div class="menu-item"><a href="./journal.html">Journal Papers</a></div>
+<br>
+<div class="menu-item"><a href="./conf.html">Conference Papers</a></div>
+<br>
+<div class="menu-item"><a href="./thesis.html">Theses</a></div>
+<br>
+</td>
+	
+<td id="layout-content">
+<div id="toptitle">
+<h1>Research Topics</h1>
+</div>
+		
+<h2><a href="#it"> Information Theory</a><br><br>
+	<a href="#ml">Machine Learning</a><br><br>
+	<a href="#ssp">Statistical Signal Processing</a><br><br>
+	<a href="#opt">Optimization</a><br><br>
+	<a href="#cda">Clinical Data Analysis</a><br><br>
+	</h2>
+<br>	
+<h3 id="it">Information Theory </h3>
+	
+<dl>
+
+<dd>-  Second- and Third-Order Coding Rates</dd>
+<dd>-  Multi-User Information Theory</dd>
+<dd>-  Error Exponent Analysis</dd>
+<dd>-  Information Spectrum Analysis</dd>
+<dd>-  Common Information</dd>
+<dd>-  Covert Communications</dd>
+
+</dl>
+
+<ol reversed>
+
+<li><p>
+<a href="https://www.nowpublishers.com/article/Details/CIT-122">Common Information, Noise Stability, and Their Extensions</a>
+<br>Lei Yu and <b>Vincent Y. F. Tan</b>
+<br>Foundations and Trends® in Communications and Information Theory, Vol. 19, No. 2, Pages 107 - 389, 2022
+</p></li>
+
+<li><p>
+<a href="https://link.springer.com/article/10.1007/s00220-022-04362-5">Optimal Adaptive Strategies for Sequential Quantum Hypothesis Testing</a>
+<br>Yonglong Li, <b>Vincent Y. F. Tan</b>, and Marco Tomamichel
+<br>Communications in Mathematical Physics, Vol. 392, Issue 3, 993 - 1027, Jun 2022
+</p></li>	
+
+<li><p>
+<a href="https://ieeexplore.ieee.org/document/9130031">Second-Order Asymptotics of Sequential Hypothesis Testing</a>
+<br>Yonglong Li and <b>Vincent Y. F. Tan</b>
+<br>IEEE Transactions on Information Theory, Vol. 66, No. 11, Pages 7222 - 7230, Nov 2020
+</p></li>	
+	
+<li><p>
+<a href="https://ieeexplore.ieee.org/document/8586900">On the Maximum Size of Block Codes Subject to a Distance Criterion</a> [<a href="./papers/spec_talk_itcom.pdf">Slides</a>]
+<br>Ling-Hua Chang, Po-Ning Chen, <b>Vincent Y. F. Tan</b>, Carol Wang and Yunghsiang S. Han
+<br>IEEE Transactions on Information Theory, Vol. 65, No. 6, Pages 3751 - 3757, Jun 2019
+</p></li>
+
+<li><p>
+<a href="https://ieeexplore.ieee.org/document/8513890">Time-Division is Optimal for Covert Communication over Some Broadcast Channels</a> [<a href="./papers/covert_talk_itw.pdf">Slides</a>]<br><b>Vincent Y. F. Tan</b>&nbsp;and Si-Hyeon Lee
+<br>IEEE Transactions on Information Forensics and Security, Vol. 14, No. 5, Pages 1377&nbsp;- 1389, May 2019
+</p>
+</li>
+	
+<li><p>
+<a href="https://link.springer.com/article/10.1134/S0032946019010046">Strong Converse for Multimessage Networks with Tight Cut-Set Bounds</a> [<a href="http://m.mathnet.ru/php/archive.phtml?wshow=paper&amp;jrnid=ppi&amp;paperid=2286&amp;option_lang=rus">Russian Version</a>]
+<br>Silas L. Fong and <b>Vincent Y. F. Tan</b>
+<br>Problems of Information Transmission (Пробл. передачи информ.), Vol. 55, No. 1, Pages 67- 100, Jan 2019
+</p></li>
+	
+<li><p>
+<a href="http://ieeexplore.ieee.org/document/8245841/">Codes in the Space of Multisets&mdash;Coding for Permutation Channels with Impairments</a>
+<br>Mladen&nbsp;Kovačević&nbsp;and&nbsp;<b>Vincent Y. F. Tan</b>
+<br>IEEE Transactions on Information Theory,&nbsp;Vol. 64, No. 7, Pages 5156 - 5169, Jul 2018
+</p></li>
+	
+<li><p>
+<a href="http://ieeexplore.ieee.org/document/8115272/">Minimum Rates of Approximate Sufficient Statistics</a> [<a href="./papers/suffstats.pdf">Slides</a>]
+<br>Masahito Hayashi and <b>Vincent Y. F. Tan</b>
+<br>IEEE Transactions on Information Theory, Vol. 64, No. 2, Pages 875 – 888, Feb 2018
+</p></li>
+	
+<li><p>
+<a href="http://epubs.siam.org/doi/abs/10.1137/16M1099182">Improved Bounds on Sidon Sets via Lattice Packing of Simplices</a> [<a href="./papers/Sidon_sets.pdf">Slides</a>]
+<br>Mladen&nbsp;Kovačević&nbsp;and&nbsp;<b>Vincent Y. F. Tan</b>
+<br>SIAM Journal on Discrete Mathematics, Vol. 31, No. 3, Pages 2269 - 2278, Sep&nbsp;2017
+</p></li>	
+
+<li><p>
+<a href="http://ieeexplore.ieee.org/document/7605463/">The Dispersion of Nearest-Neighbor Decoding for Additive Non-Gaussian Channels</a>
+<br>Jonathan Scarlett,&nbsp;<b>Vincent Y. F. Tan</b>&nbsp;and Giuseppe&nbsp;Durisi
+<br>IEEE Transactions on Information Theory,&nbsp;Vol. 63, No. 1, Pages 81 - 92, Jan&nbsp;2017
+</p></li>
+	
+<li><p>
+<a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7308041">Asymmetric Evaluations of Erasure and Undetected Error Probabilities</a>
+<br>Masahito Hayashi and <b>Vincent Y. F. Tan</b>
+<br>IEEE Transactions on Information Theory, Vol. 61, No. 12, Pages 6560 – 6577, Dec 2015
+</p></li>
+
+<li><p>
+<a href="http://www.nowpublishers.com/articles/foundations-and-trends-in-communications-and-information-theory/CIT-086">Asymptotic Estimates in Information Theory with Non-Vanishing Error Probabilities</a>
+<br><b>Vincent Y. F. Tan</b>
+<br>Foundations and Trends®  in Communications and Information Theory, Vol. 11, Nos. 1-2, Pages 1 – 184, 2014
+</p></li>
+
+</ol>
+	
+<br>
+	
+<h3 id="ml">Machine Learning </h3>
+<dl>
+
+<dd>-  Multi-Armed Bandits</dd>
+<dd>-  Deep Learning</dd>
+<dd>-  Graphical Model Selection</dd>
+
+</dl>
+
+<ol reversed>
+ 
+<li><p>
+<a href="https://arxiv.org/abs/2301.13393">Probably Anytime-Safe Stochastic Combinatorial Semi-Bandits</a>
+<br>Yunlong Hou, <b>Vincent Y. F. Tan</b>, and Zixin Zhong
+<br>Proc. of the 40th International Conference on Machine Learning (ICML), Hawaii, Jul 2023 (AR: 1827/6538 ≈ 27.9%)
+</p></li> 
+   
+<li><p>
+<a href="https://arxiv.org/abs/2304.12680">Communication-Constrained Bandits under Additive Gaussian Noise</a>
+<br>Prathamesh Mayekar, Jonathan Scarlett, and <b>Vincent Y. F. Tan</b>
+<br>Proc. of the 40th International Conference on Machine Learning (ICML), Hawaii, Jul 2023 (AR: 1827/6538 ≈ 27.9%)
+</p></li> 
+	
+<li><p>
+<a href="https://arxiv.org/abs/2105.13017">Minimax Optimal Fixed-Budget Best Arm Identification in Linear Bandits</a> [<a href="./papers/BAI_poster_neurips2022.pdf">Poster</a>] [<a href="./papers/ODLinBAI-talk.pdf">Slides</a>]
+<br>Junwen Yang and <b>Vincent Y. F. Tan</b>
+<br>Proc. of the 36th Annual Conference on Neural Information Processing Systems (NeurIPS), New Orleans, USA, Dec 2022 (AR ≈ 25.6%)
+</p></li>
+ 
+<li><p>
+<a href="https://jmlr.org/papers/v22/20-447.html">Thompson Sampling Algorithms for Cascading Bandits</a> [<a href="./papers/TSCascade_slides.pdf">Slides</a>] [<a href="https://github.com/zixinzh/2021-JMLR.git">Code</a>]
+<br>Zixin Zhong, Wang Chi Cheung, and <b>Vincent Y. F. Tan</b>
+<br>Journal of Machine Learning Research, Vol. 22, No. 218, Pages 1 - 66, 2021 (Extension of <a href="http://proceedings.mlr.press/v89/cheung19a.html">2019 AISTATS paper</a>)
+</p></li>
+	
+<li><p>
+<a href="http://proceedings.mlr.press/v139/zhong21a.html">Probabilistic Sequential Shrinking: A Best Arm Identification Algorithm for Stochastic Bandits with Corruptions</a> [<a href="https://github.com/zixinzh/2021-ICML">Code</a>] [<a href="https://recorder-v3.slideslive.com/#/share?share=37930&s=704fa0a4-d6cd-45b9-8e5d-d4bfed06ee9a">Video</a>]
+<br>Zixin Zhong, Wang Chi Cheung, and <b>Vincent Y. F. Tan</b>
+<br>Proc. of the 38th International Conference on Machine Learning (ICML), Virtual, Jul 2021
+</p></li>
+	
+<li><p>
+<a href="http://proceedings.mlr.press/v119/zhu20d.html">Thompson Sampling Algorithms for Mean-Variance Bandits</a> [<a href="https://github.com/maxqyzhu/TS_for_mean_variance_bandit">Code</a>]
+<br>Qiuyu Zhu and <b>Vincent Y. F. Tan</b>
+<br>Proc. of the 37th International Conference on Machine Learning (ICML), Vienna, Austria, Jul 2020
+</p></li>
+
+<li><p>
+<a href="http://proceedings.mlr.press/v119/zhong20a.html">Best Arm Identification for Cascading Bandits in the Fixed Confidence Setting</a>
+<br>Zixin Zhong, Wang Chi Cheung, and <b>Vincent Y. F. Tan</b>
+<br>Proc. of the 37th International Conference on Machine Learning (ICML), Vienna, Austria, Jul 2020
+</p></li>
+
+<li><p>
+<a href="https://openreview.net/forum?id=B1e9Y2NYvS">On Robustness of Neural Ordinary Differential Equations</a>
+<br>Hanshu Yan, Jiawei Du, <b>Vincent Y. F. Tan</b>, and Jiashi Feng
+<br>Proc. of the 8th International Conference on Learning Representations (ICLR) (Spotlight), Addis Ababa, Apr 2020
+</p></li>	
+
+<li><p>
+<a href="http://jmlr.csail.mit.edu/papers/v13/anandkumar12a.html">High-Dimensional Gaussian Graphical Model Selection: Walk Summability and Local Separation Criterion</a> 
+<br>Animashree Anandkumar, <b>Vincent Y. F. Tan</b>, Furong Huang and Alan S. Willsky
+<br>Journal of Machine Learning Research, Vol. 13, Pages 2293 – 2337, Aug 2012
+</p></li>
+
+<li><p>
+<a href="http://projecteuclid.org/DPubS?service=UI&amp;version=1.0&amp;verb=Display&amp;handle=euclid.aos/1344610586">High-Dimensional Structure Estimation of Ising Models: Local Separation Criterion</a> [<a href="./papers/IsingSelection.pdf">Paper</a>]
+<br>Animashree Anandkumar, <b>Vincent Y. F. Tan</b>, Furong Huang and Alan S. Willsky
+<br>Annals of Statistics, Vol. 40, No. 3, Pages 1346 – 1375, 2012
+</p></li>
+
+<li><p>
+<a href="http://www.jmlr.org/papers/volume12/choi11b/choi11b.pdf">Learning Latent Tree Graphical Models</a> [<a href="http://www.jmlr.org/papers/v12/choi11b.html">Abstract</a>] [<a href="http://people.csail.mit.edu/myungjin/latentTree.html">Webpage</a>] [<a href="http://people.csail.mit.edu/myungjin/latentTree.html">Code</a>] [<a href="./papers/latentTree_slides.pdf">Slides</a>]
+<br>Myung Jin Choi, <b>Vincent Y. F. Tan</b>, Animashree Anandkumar and Alan S. Willsky
+<br>Journal of Machine Learning Research, Vol. 12, Pages 1771 – 1812, May 2011
+</p></li>
+
+<li><p>
+<a href="./papers/TATW.pdf">A Large-Deviation Analysis of the Maximum-Likelihood Learning of Markov Tree Structures</a> [<a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5714274">Link</a>] [<a href="./papers/isit_talk.pdf">Slides</a>]
+<br><b>Vincent Y. F. Tan</b>, Animashree Anandkumar, Lang Tong and Alan S. Willsky
+<br>IEEE Transactions on Information Theory, Vol. 57, No. 3, Pages 1714 – 1735, Mar 2011
+</p></li>
+
+<!--<li><p>
+<a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5406101">Learning Gaussian Tree Models: Analysis of Error Exponents and Extremal Structures</a> [<a href="http://web.mit.edu/newsoffice/2010/sizing-samples-0825.html">News</a>] [<a href="./papers/ITSchool.pdf">Poster</a>] [<a href="./papers/LearningGaussianTreeModels.zip">Code</a>] [<a href="./papers/TanAllerton09-slides.pdf">Slides</a>]
+<br><b>Vincent Y. F. Tan</b>, Animashree Anandkumar and Alan S. Willsky<br>IEEE Transactions on Signal Processing, Vol. 58, Issue 5, No. 2701 - 2714, May 2010
+</p></li>-->
+
+</ol>
+	
+<br>
+	
+<h3 id="ssp">Statistical Signal Processing </h3>
+<dl>
+
+<dd>-  Non-Negative Matrix Factorization</dd>
+<dd>-  Sparsity in Signal Processing</dd>
+
+</dl>
+
+<ol reversed>
+		
+<li><p>
+<a href="https://ieeexplore.ieee.org/document/9353266/">Distributionally Robust and Multi-Objective Nonnegative Matrix Factorization</a> [<a href="./papers/dr_nmf_talk.pdf">Slides</a>] [<a href="https://codeocean.com/capsule/8680134/tree/v1">Code</a>]
+<br>Nicolas Gillis, Le Thi Khanh Hien, Valentin Leplat, and <b>Vincent Y. F. Tan</b>
+<br>IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 44, No. 8, Pages 4052 - 4064, Aug 2022
+</p></li>
+
+<li><p>
+<a href="https://ieeexplore.ieee.org/document/9464702/">Adversarially-Trained Nonnegative Matrix Factorization</a> [<a href="https://github.com/caiting123321/AT_NMF">Code</a>]
+<br>Ting Cai, <b>Vincent Y. F. Tan</b>, and Cédric Févotte
+<br>IEEE Signal Processing Letters, Vol. 28, Pages 1415 - 1419, Jun 2021
+</p></li>
+	
+<li><p>
+<a href="https://ieeexplore.ieee.org/document/9397331/">Positive Semidefinite Matrix Factorization: A Connection with Phase Retrieval and Affine Rank Minimization</a> [<a href="https://dana.lahat.org.il/psdmf.html">Code</a>] 
+<br>Dana Lahat, Yanbin Lang, <b>Vincent Y. F. Tan</b>, and Cédric Févotte
+<br>IEEE Transactions on Signal Processing, Vol. 69, Pages 3059 - 3074, Apr 2021
+</p></li>	
+
+<li><p>
+<a href="https://ecmlpkdd2019.org/downloads/paper/44.pdf">A Ranking Model Motivated by Nonnegative Matrix Factorization with Applications to Tennis Tournaments</a> [<a href="./papers/BTL_NMF_LRMA.pdf">Slides</a>]
+<br>Rui Xia, <b>Vincent Y. F. Tan</b>, Louis Filstroff, and Cédric Févotte
+<br>Proc. of European Conference on Machine Learning (ECML/PKDD), 2019
+</p></li>
+
+<li><p>
+<a href="http://ieeexplore.ieee.org/document/8052526/">A Unified Convergence Analysis of the Multiplicative Update Algorithm for Regularized NMF</a>
+<br>Renbo Zhao and <b>Vincent Y. F. Tan</b>
+<br>IEEE Transactions on Signal Processing, Vol. 66, No. 1, Pages 129 – 138, Jan 2018
+</p></li>
+
+<li><p>
+<a href="http://ieeexplore.ieee.org/document/7944595/">Rank-One NMF-Based Initialization for NMF and Relative Error Bounds under a Geometric Assumption</a> [<a href="https://github.com/zhaoqiangliu/cr1-nmf">Code</a>] [<a href="./papers/iora_pres.pdf">Slides</a>]
+<br>Zhaoqiang Liu and <b>Vincent Y. F. Tan</b>
+<br>IEEE Transactions on Signal Processing, Vol. 65, No. 18, Pages 4717 – 4731, Sep 2017
+</p></li>
+
+
+<li><p>
+<a href="http://proceedings.mlr.press/v54/zhao17a.html">Online Nonnegative Matrix Factorization with General Divergences</a> [<a href="./papers/ONMFG.pdf">Slides</a>]
+<br>Renbo Zhao, <b>Vincent Y. F. Tan</b> and Huan Xu
+<br>Proc. of the 20th Intl. Conf. on Artificial Intelligence and Statistics (AISTATS), PMLR 54:37-45, 2017, Fort Lauderdale, FL
+</p></li>
+
+<li><p>
+<a href="http://ieeexplore.ieee.org/document/7676413/">Online Nonnegative Matrix Factorization with Outliers</a> [<a href="./papers/release.zip">Code</a>] [<a href="./papers/supp.pdf">Supplemental Material</a>]
+<br>Renbo Zhao and <b>Vincent Y. F. Tan</b>
+<br>IEEE Transactions on Signal Processing, Vol. 65, No. 3, Pages 555 – 570, Feb 2017
+</p></li>
+
+<li><p>
+<a href="./papers/ard_nmf.pdf">Automatic Relevance Determination in Nonnegative Matrix Factorization with the β-Divergence</a> [<a href="./papers/supp_mat.pdf">Supplementary
+  Material</a>] [<a href="./papers/nips2011_poster.pdf">Poster</a>] [<a href="./papers/talk_workshop_nips.pdf">Slides</a>] [<a href="./papers/ard_nmf_code.zip">Code</a>]
+<br><b>Vincent Y. F. Tan</b> and Cédric Févotte
+<br>IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 35, No. 7, Pages 1592 – 1605, Jul 2013
+</p></li>
+
+<li><p>
+<a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4563436">Estimating Signals with Finite Rate of Innovation from Noisy Samples: A Stochastic Algorithm</a> [<a href="./papers/frimcmc.zip">Code</a>]
+<br><b>Vincent Y. F. Tan</b> and Vivek K Goyal
+<br>IEEE Transactions on Signal Processing, Vol. 56, No. 10, Pages 5135 – 5145, Oct 2008
+</p></li>
+</ol>
+
+<br>
+	
+<h3 id="opt">Optimization </h3>
+<dl>
+
+<dd>- Polynomial Optimization</dd>
+<dd>- Stochastic Optimization</dd>
+<dd>- Sharpness-Aware Training</dd>
+	
+</dl>
+
+<ol reversed>
+
+<li><p>
+<a href="https://arxiv.org/abs/2205.14083">Sharpness-Aware Training for Free</a> [<a href="./papers/saf_poster.pdf">Poster</a>]
+<br>Jiawei Du, Daquan Zhou, Jiashi Feng, <b>Vincent Y. F. Tan</b>, and Joey Tianyi Zhou
+<br>Proc. of the 36th Annual Conference on Neural Information Processing Systems (NeurIPS), New Orleans, USA, Dec 2022 (AR ≈ 25.6%)
+</p></li>
+	
+<li><p>
+<a href="https://openreview.net/forum?id=n0OeTdNRG0Q">Efficient Sharpness-aware Minimization for Improved Training of Neural Networks</a>
+<br>Jiawei Du, Hanshu Yan, Jiashi Feng, Joey Tianyi Zhou, Liangli Zhen, Rick Siow Mong Goh, and <b>Vincent Y. F. Tan</b> 
+<br>Proc. of the 10th International Conference on Learning Representations (ICLR), Virtual, Apr 2022 (AR: 1095/3391 ≈ 32.3%)
+</p></li>
+	
+<li><p>
+<a href="https://link.springer.com/article/10.1007/s10957-021-01869-0">Analysis of Optimization Algorithms via Sum-of-Squares</a> [<a href="https://github.com/sandratsy/SumsOfSquares/">Code</a>] [<a href="./papers/SOS_slides.pdf">Slides</a>]
+<br>Sandra S. Y. Tan, Antonios Varvitsiotis, and <b>Vincent Y. F. Tan</b>
+<br>Journal of Optimization Theory and Applications, Vol. 190, Pages 56 - 81, Jul 2021
+</p></li>
+
+<li><p>
+<a href="http://proceedings.mlr.press/v89/zhao19a.html">An Optimal Algorithm for Stochastic Three-Composite Optimization</a>
+<br>Renbo Zhao, William B. Haskell and <b>Vincent Y. F. Tan</b>
+<br>Proc. of the 22nd International Conference on Artificial Intelligence and Statistics (AISTATS), 2019, Naha, Okinawa, Japan
+</p></li>
+	
+<li><p>
+<a href="http://ieeexplore.ieee.org/document/8219748/">Stochastic L-BFGS Revisited: Improved Convergence Rates and Practical Acceleration Strategies</a> [<a href="http://science.nus.edu.sg/research-highlights/2220-a-practical-optimisation-algorithm-for-big-data-applications">News</a>]
+<br>Renbo Zhao, William B. Haskell and <b>Vincent Y. F. Tan</b>
+<br>IEEE Transactions on Signal Processing, Vol. 66, No. 5, Pages 1155&nbsp;- 1169, Mar 2018
+</p></li>
+	
+</ol>
+	
+<br>
+
+	
+<h3 id="cda">Clinical Data Analysis </h3>
+<br>
+<ol reversed>
+
+<li><p>
+<a href="https://dl.acm.org/citation.cfm?doid=3361560.3351231">Mobile Gait Analysis using Foot-Mounted UWB Sensors</a>
+<br>Boyd Anderson, Mingqian Shi, <b>Vincent Y. F. Tan</b> and Wang Ye
+<br>Proc. of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, Vol. 3, Issue 3, Sep 2019
+</p></li>
+
+<li><p>
+<a href="./papers/Boyd_ASSETS2018.pdf">MANA: Designing And Validating A User-Centered Mobility Analysis System</a>
+<br>Boyd Anderson, Shenggao Zhu, Ke Yang, Jian Wang, Hugh Anderson, Chao Xu Tay, <b>Vincent Y. F. Tan</b> and Wang Ye
+<br>Proc. of the 20th Intl. ACM SIGACCESS Conference on Computers and Accessibility (ASSETS), 2018, Galway, Ireland
+</p></li>
+
+<li><p>
+<a href="http://www.nature.com/nm/journal/vaop/ncurrent/full/nm.4100.html">Impact of Pre-Adapted HIV Transmission</a> [<a href="https://www.sciencedaily.com/releases/2016/05/160516115750.htm">Science
+  Daily</a>] [<a href="http://www.nature.com/nm/journal/v22/n6/full/nm.4119.html">News and
+  Views</a>] [<a href="http://research.microsoft.com/en-us/um/people/carlson/papers/adaptation16.html">Project
+  Webpage</a>] [<a href="https://mix.office.com/watch/1xbw46b42skuy">Video</a>]
+<br>Jonathan M. Carlson, Victor Y. Du, Nico Pfeifer, Anju Bansal, <b>Vincent Y. F. Tan</b>,  Karen Power, Chanson J. Brumme, Anat Kreimer, Charles E. DeZiel, Nicolo Fusi, Malinda Schaefer, Mark A. Brockman, Jill Gilmour, Matt A. Price, William Kilembe, Richard Haubrich, Mina John, Simon Mallal, Roger Shapiro, John Frater, P. Richard Harrigan, Thumbi Ndung’u, Susan Allen, David Heckerman, John Sidney, Todd M. Allen, Philip J. R. Goulder, Zabrina L. Brumme, Eric Hunter, Paul A. Goepfert
+<br>Nature Medicine, Vol. 22, No. 6, Pages 606 – 613, Jun 2016
+</p></li>
+
+<li><p>
+<a href="http://jvi.asm.org/content/early/2012/02/22/JVI.06728-11.abstract">Widespread Impact of HLA Restriction on Immune Control and Escape Pathways in HIV-1</a>
+<br>Jonathan M. Carlson, Jennifer Listgarten, Nico Pfeifer, <b>Vincent Y. F. Tan</b>, Carl Kadie, Bruce D. Walker,Thumbi Ndung'u, Roger Shapiro, John Frater, Zabrina L. Brumme, Philip J. R. Goulder, David Heckerman
+<br>Journal of Virology, Vol. 86, No. 9, Pages 5230-5243, May 2012
+</p></li>
+
+
+<li><p>
+<a href="./papers/Beyond_Atopy.pdf">Beyond Atopy: Multiple Patterns of Sensitization in Relation to Asthma in a Birth Cohort Study</a> [<a href="http://www.ncbi.nlm.nih.gov/pubmed/20167852">Link</a>]
+<br>Angela Simpson*, <b>Vincent Y. F. Tan*</b>, John Winn, Markus Svensen, Chris Bishop, David Heckerman, Iain Buchan and Adnan Custovic
+<br>American Journal of Respiratory and Critical Care Medicine, Vol. 181, Pages 1200 – 1206, Jun 2010 (*Co-first Authorship)
+</p></li>
+
+
+</ol>
+
+	
+	
+
+</p><div id="footer">
+<div id="footer-text">
+</div>
+</div>
+</td>
+</tr>
+</tbody></table>
+
+
+</body></html>
